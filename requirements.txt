@@ -4,11 +4,10 @@ pandas~=2.3.1
 Flask~=3.1.1
 numpy~=1.26.4
 psutil~=7.0.0
-kivymd~=1.2.0
 joblib~=1.5.1
 shap~=0.48.0
 xgboost
-scikit-learn~=1.7.1
+scikit-learn
 matplotlib~=3.10.5
 seaborn~=0.13.2
 scipy~=1.16.1
