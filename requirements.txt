@@ -16,3 +16,4 @@ pytz
 tqdm
 statsmodels
 ipython
+gunicorn
